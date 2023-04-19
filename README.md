@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <b>Contato</b> <br>
-<p align="center"><a href="https://www.linkedin.com/in/fabricio-h-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
+ <a align="center" href="https://www.linkedin.com/in/fabricio-h-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 
