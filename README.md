@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div style="text-align: center;">
 #### Languages & tools
 
 <div>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <div>
 <a href="https://www.linkedin.com/in/fabricio-h-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
+</div>
 <!-- <div>
 <a href="https://github.com/fabriciohrq">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciohrq&layout=compact&langs_count=7&theme=dracula"/>
