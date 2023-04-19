@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-Languages & tools <br>
+ <b>Languages & tools</b> <br>
 
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,7 +27,7 @@ Languages & tools <br>
 
 
 <p align="center">
-Learning <br>
+ <b>Learning</b> <br>
 
  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 
@@ -35,10 +35,8 @@ Learning <br>
 
 
 <p align="center">
-Contato <br>
-
-<a href="https://www.linkedin.com/in/fabricio-h-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+ <b>Contato</b> <br>
+<p align="center"><a href="https://www.linkedin.com/in/fabricio-h-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
 </p>
 
 
