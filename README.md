@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciohrq&show_icons=true&theme=dark)
 </p>
 <!-- <div>
 <a href="https://github.com/fabriciohrq">
