@@ -1,4 +1,4 @@
-### Fabricio, 19yo.
+### Fabricio, 20yo.
  
 <!--
 **fabriciohrq/fabriciohrq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <b>Contact</b> <br>
- <a align="center" href="https://www.linkedin.com/in/fabricio-h-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a align="center" href="www.linkedin.com/in/fabriciohsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <!-- <a align="center" href="https://steamcommunity.com/id/hwkng01/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> -->
 </p>
 
